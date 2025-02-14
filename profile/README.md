@@ -26,8 +26,8 @@ Ours' is an end-to-end platform designed to **empower students, streamline acade
 
 | Repository                | Status       | Description                                                                 |
 |---------------------------|--------------|-----------------------------------------------------------------------------|
-| [ai-backend](https://github.com/CampusInnovate/ai-backend) | **Active** 🚧 | AI-powered backend for tutoring, note summarization, chatbots, and more.   |
-| [web2](https://github.com/CampusInnovate/web2)             | **Active** 🚧 | Modern Web2 frontend for seamless user interaction and campus integration.  |
+| [ai-backend](https://github.com/CodeRelay-dotenv/ai-backend) | **Active** 🚧 | AI-powered backend for tutoring, note summarization, chatbots, and more.   |
+| [web2](https://github.com/CodeRelay-dotenv/web2)             | **Active** 🚧 | Modern Web2 frontend for seamless user interaction and campus integration.  |
 
 ---
 
