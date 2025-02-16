@@ -1,59 +1,100 @@
-# Code Relay - dotenv 🚀  
+# Eduflow-Nexus 🚀  
+**A Code Relay 3.0 Initiative by Team dotenv**  
 
-**Revolutionizing Campus Life with AI and Web2 Technologies**  
-
-Ours' is an end-to-end platform designed to **empower students, streamline academic management, and foster a thriving campus community** through innovative AI and Web2 solutions.  
-
-*Currently in active development, with initial focus on scalable AI-driven features and seamless Web2 integrations.*  
+*Transforming Campus Ecosystems with AI-Driven Collaboration*  
 
 ---
 
-## 🎯 Core Project: Campus Life Transformation  
+## 🌟 Overview  
+**Eduflow-Nexus** is an open-source platform born at **Code Relay 3.0**, designed to bridge academic gaps through AI-powered tools and community-driven innovation. Built by team **dotenv**, it combines seamless Web2 interfaces with scalable AI to empower students, educators, and institutions.  
 
-**Goal**: Build a platform that enhances campus life by solving real-world problems faced by students, leveraging AI and Web2 technologies.  
-**Current Focus**: Developing the AI-powered backend (`ai-backend`) and user-friendly frontend (`web2`).  
+*"Where ideas meet impact."*  
 
-### Key Capabilities (Planned)  
-- **Peer-to-Peer Tutoring**: Connect students for collaborative learning with a reputation-based reward system.  
-- **Canvas-Integrated AI**: Transform lecture notes into interactive, visual learning tools.  
-- **Academic/Administrative ChatBot**: Simplify access to campus information with an AI-driven dialog flow.  
-- **Video-to-Notes**: Automatically transcribe and summarize educational videos for better accessibility.  
-- **Interview Assistance**: Simulate interview questions based on resumes and job descriptions.  
+---
+
+## 🎯 Core Mission  
+**Solve**: Fragmented learning resources, inefficient academic workflows, and unequal access to mentorship.  
+**Innovate**: Leverage AI to automate administrative tasks, foster peer-to-peer growth, and democratize education.  
+
+---
+
+## 🚀 Flagship Features  
+
+| Feature                  | Description                                                                 | Tech Stack              |  
+|--------------------------|-----------------------------------------------------------------------------|-------------------------|  
+| **Smart Canvas**         | Realtime drawing + AI integration (diagram-to-code, visual Q&A).           | React, Convex, FastAPI  |  
+| **PeerFlow Tutoring**    | Reputation-driven Q&A hub with professor-curated challenges.                | Next.js, Tailwind CSS   |  
+| **CampusChat Bot**       | College-specific AI assistant for policies, deadlines, and resources.      | Dialogflow, Firestore   |  
+| **Inclusive VideoNotes** | Auto-transcribe/summarize lectures for disabilities & language barriers.    | Whisper API, GPT-4      |  
 
 ---
 
 ## 📂 Repositories  
+| Repository                | Status       | Highlights                                                                 |  
+|---------------------------|--------------|----------------------------------------------------------------------------|  
+| [ai-backend](https://github.com/CodeRelay-dotenv/ai-backend) | **Active** 🚧 | FastAPI, GCP, Docker • Powers Canvas AI, VideoNotes, and ChatBot.          |  
+| [web2](https://github.com/CodeRelay-dotenv/web2)             | **Active** 🚧 | Next.js, Touch/Tablet UI • Interactive dashboards and realtime collaboration.|  
 
-| Repository                | Status       | Description                                                                 |
-|---------------------------|--------------|-----------------------------------------------------------------------------|
-| [ai-backend](https://github.com/CodeRelay-dotenv/ai-backend) | **Active** 🚧 | AI-powered backend for tutoring, note summarization, chatbots, and more.   |
-| [web2](https://github.com/CodeRelay-dotenv/web2)             | **Active** 🚧 | Modern Web2 frontend for seamless user interaction and campus integration.  |
+---
+## Our Interfaces
+
+### Canvas
+
+
+https://github.com/user-attachments/assets/329a4622-c6d1-46cf-9d77-d18bd7b8ac6b
+
+
+### Peer-2-Peer Hub
+
+
+
+https://github.com/user-attachments/assets/cbd7d5c5-d8c4-465b-a6ce-71101c470545
+
+
 
 ---
 
-## 👥 Team  
-
-*We’re a passionate team of developers building this during a 30-hour hackathon! Expect rapid, iterative progress.*  
+## 📌 Business Model  
+- **B2C Freemium Tiers**: Offer free basic features with premium AI tools (e.g., advanced Canvas codegen, and interview prep) for individual users.  
+- **B2B Licensing**: Universities pay for custom solutions like ChatBot training, analytics dashboards, and white-label integrations.  
+- **Partnerships**: Collaborate with academic institutions for internships and EdTech firms for API access to tools like Video-to-Notes.  
+- **Campus Integration**: Monetize through campus reward systems, reputation-based research opportunities, and LMS integrations (e.g., Canvas, Blackboard).  
+- **SaaS Model**: Provide cloud-based solutions with APIs for seamless integration into existing platforms, targeting both B2B and B2C markets.  
+- **Revenue Streams**: Include subscription fees, licensing, customization charges, and transaction fees for tutoring or premium features.  
+- **Scalability**: Expand globally by partnering with educational institutions, recruitment agencies, and online learning platforms.
 
 ---
 
-## 📬 Contact  
-General Inquiries: rishiagrawal117@gmail.com
+## 🛠️ Tech Ecosystem  
+**Frontend**:  
+- React/Next.js • Tailwind CSS + shadcn UI • Convex (realtime state) • OAuth2.0  
+
+**Backend**:  
+- FastAPI • GCP + Docker •  Whisper/GPT-4  
 
 ---
 
 ## 🗺️ Roadmap  
-**Phase 1 (Hackathon)**:  
-- Develop core AI backend (`ai-backend`) for tutoring, note summarization, and chatbots.  
-- Build a functional Web2 frontend (`web2`) for user interaction.  
+**2024 Q3**:  
+- Launch PWA for offline access.  
+- Multi-language VideoNotes.  
 
-**Phase 2 (Post-Hackathon)**:  
-- Integrate Canvas API for seamless academic management.  
-- Add gamification features (e.g., rewards for tutoring participation).  
-- Expand AI capabilities for interview preparation and video-to-notes.  
+**2024 Q4**:  
+- Professor challenge portals for intern recruitment.  
+- LMS plugins.  
+
+**2025**:  
+- Global reputation network for students.  
 
 ---
 
-**Open Source • Hackathon-Built • Iterative Progress**  
+## 👥 Team dotenv  
+*A 30-hour hackathon squad passionate about education equity.*  
+- **Contact**: rishiagrawal117@gmail.com  
+- **Philosophy**: *"Build fast, iterate faster."*  
 
-_“Empowering students, one innovation at a time.”_  
+---
+
+**Open Source • Hackathon-Built • Student-First**  
+**[🚀 Explore Repositories](https://github.com/CodeRelay-dotenv)**  
+*"From classrooms to careers – reimagined."*  
